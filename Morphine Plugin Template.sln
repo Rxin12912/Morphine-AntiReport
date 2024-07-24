@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Morphine Plugin Template", "Morphine Plugin Template\Morphine Plugin Template.csproj", "{15223400-8618-4EC3-8BD5-DACB4B46DD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15223400-8618-4EC3-8BD5-DACB4B46DD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15223400-8618-4EC3-8BD5-DACB4B46DD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15223400-8618-4EC3-8BD5-DACB4B46DD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15223400-8618-4EC3-8BD5-DACB4B46DD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04E4996-3103-461E-AECF-2BEEBC3B1540}
+	EndGlobalSection
+EndGlobal
